@@ -8,6 +8,7 @@ cc_library(
 
 cc_test(
     name = "navigation_test",
+    size = "small",
     srcs = ["navigation_test.cc"],
     deps = [
         ":navigation",
@@ -29,6 +30,7 @@ cc_library(
 
 cc_test(
     name = "with-aim_test",
+    size = "small",
     srcs = ["with-aim_test.cc"],
     deps = [
         ":with-aim",

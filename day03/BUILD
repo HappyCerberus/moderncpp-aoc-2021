@@ -8,6 +8,7 @@ cc_library(
 
 cc_test(
     name = "diagnostic_test",
+    size = "small",
     srcs = ["diagnostic_test.cc"],
     deps = [
         ":diagnostic",
@@ -39,6 +40,7 @@ cc_library(
 
 cc_test(
     name = "ratings_test",
+    size = "small",
     srcs = ["ratings_test.cc"],
     deps = [
         ":ratings",
