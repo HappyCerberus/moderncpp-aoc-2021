@@ -16,3 +16,4 @@ This repository contains solution for the Advent of Code 2021 and serve as base 
 - [Day 12 Explanation Article](https://medium.com/@happy.cerberus/modern-c-in-advent-of-code-day12-1de190deb2e4)
 - [Day 13 Explanation Article](https://medium.com/@happy.cerberus/modern-c-in-advent-of-code-day13-4ae500de12b0)
 - [Day 14 Explanation Article](https://medium.com/@happy.cerberus/modern-c-in-advent-of-code-day14-6f8347ec68d5)
+- [Day 15 Explanation Article](https://medium.com/@happy.cerberus/modern-c-in-advent-of-code-day15-74c2023711b0)
