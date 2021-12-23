@@ -4,5 +4,6 @@ build --cxxopt=-pedantic
 build --cxxopt=-Wall
 build --cxxopt=-Wextra
 build --cxxopt=-Werror
+build --cxxopt=-O2
 
 build:debug --cxxopt=-ggdb3
